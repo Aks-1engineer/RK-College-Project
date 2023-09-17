@@ -1,0 +1,308 @@
+                      <ul>
+                        <li>Admission Fee</li>
+                        <li>Special Admission Fee</li>
+                        <li>Misc.Charge</li>
+                        <li>Science Laboratory</li>
+                        <li>Tuition Fee For The One Month</li>
+                        <li>Migration Fee(Other Board)</li>
+                        <li>YRC</li>
+                      </ul>
+
+
+
+
+
+
+
+                      <li>----</li>
+                      <li>----</li>
+                      <li>----</li>
+                      <li>----</li>
+                      <li>----</li>
+                      <li>----</li>
+                      <li>----</li>
+            
+
+                      <li>9.75</li>
+                      <li>75.00</li>
+                      <li>505.00</li>
+                      <li>50.00</li>
+                      <li>9.75</li>
+                      <li>450.00</li>
+                      <li>10.00</li>
+
+
+
+
+
+                       <form action="notification_code.php" method="post">
+        Add Notification:
+        <input type="text" name="notification" class="form-control" placeholder="Enter Notification">
+        <br>
+        Upload Pdf File:
+        <input type="file" name="file" class="form-control" placeholder="">
+        <br>
+        <input type="submit" value="Save Notification">
+    </form>
+
+
+
+
+    <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td colspan="2">Larry the Bird</td>
+      <td>@twitter</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<select class="form-select">
+                        <option value="">--Select Department--</option>
+                        <option >Maths Department</option>
+                        <option >Physics Department</option>
+                        <option>Chemistry Department</option>
+                        <option>Biology Department</option>
+                        <option>History Department</option>
+                        <option>Geography Department</option>
+                      </select>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      
+    <!--information and course start-->
+
+       <!--information and courses details start-->
+      
+         
+       <!--information and courses details start-->
+      <!--information boxes start-->
+      <div class="container-fluid">
+        <div class="row background-images mt-3">
+          <div class="col-sm-6">
+            <div class="row">
+              <div class="col-sm-12  below-heads-images">
+                <h4 class="text-center"><a href="admin/index.php" class="text-white" style="text-decoration:none;">College Automation System</a></h4>
+              </div>
+            </div>
+  
+            <div class="row notice-information">
+              <div class="col-sm-12 mt-5">
+                <div class="container"><div class="row below-heads-images"><h4 class="text-center">Notice Board</h4></div> </div>
+                <marquee behavior="" direction="up" height="350px" class="text-center">
+              
+                <a href="">Notice-Reg.B.ED. Admission Notice 2022-24</a>
+                </marquee>
+             </div>
+            </div>
+  
+            <div class="row pt-5">
+              <div class="col-sm-12  below-heads-images">
+                <h4 class="text-center">Community College</h4>
+              </div>
+            </div>
+  
+            <div class="row pt-5">
+              <div class="col-sm-12  below-heads-images">
+                <h4 class="text-center">Placement Cell</h4>
+              </div>
+            </div>
+  
+            <div class="row pt-5">
+              <div class="col-sm-12  below-heads-images">
+                <h4 class="text-center">NSS Programme</h4>
+              </div>
+            </div>
+  
+            <div class="row pt-5">
+              <div class="col-sm-12  below-heads-images">
+                <h4 class="text-center">AWARD</h4>
+              </div>
+            </div>
+  
+            <div class="row pt-5">
+              <div class="col-sm-12  below-heads-images">
+                <h4 class="text-center">MOULANA ABUL KALAM(BIRTH ANNIVERSARY)</h4>
+              </div>
+            </div>
+  
+            <div class="row pt-5">
+              <div class="col-sm-12  below-heads-images">
+                <h4 class="text-center">Prospectus</h4>
+              </div>
+            </div>
+          </div>
+          <!--information boxes end-->
+  
+  
+          <!--courses details start-->
+           <div class="row">
+             <div class="col-sm-6 text-center course-border">
+               <img src="images/mentor/course/course-removebg-preview.png" class="d-block mx-auto course-height" alt="">
+               <h4>I.Sc</h4>
+               <h6>Duration:2 Years</h6>
+               <p><a href="" class="btn btn-border">Read more</a></p>
+             </div>
+             <div class="col-sm-6 text-center course-border">
+               <img src="images/mentor/course/course-removebg-preview.png" class="d-block mx-auto course-height" alt="">
+               <h4>I.COM</h4>
+               <h6>Duration:2 Years</h6>
+               <p><a href="" class="btn btn-border">Read more</a></p>
+             </div>
+            </div>
+            <div class="row">
+             <div class="col-sm-6 text-center course-border">
+               <img src="images/mentor/course/course-removebg-preview.png" class="d-block mx-auto course-height" alt="">
+               <h4>I.A</h4>
+               <h6>Duration:2 Years</h6>
+               <p><a href="" class="btn btn-border">Read more</a></p>
+             </div>
+             <div class="col-sm-6 text-center course-border">
+               <img src="images/mentor/course/course-removebg-preview.png" class="d-block mx-auto course-height" alt="">
+               <h4>B.A Honours</h4>
+               <h6>Duration:1 Year</h6>
+               <p><a href="" class="btn btn-border">Read more</a></p>
+             </div>
+            </div>
+            <div class="row">
+             <div class="col-sm-6 text-center course-border">
+               <img src="images/mentor/course/course-removebg-preview.png" class="d-block mx-auto course-height" alt="">
+               <h4>B.Sc</h4>
+               <h6>Duration:1 Year</h6>
+               <p><a href="" class="btn btn-border">Read more</a></p>
+             </div>
+             <div class="col-sm-6 text-center course-border">
+               <img src="images/mentor/course/course-removebg-preview.png" class="d-block mx-auto course-height" alt="">
+               <h4>B.COM</h4>
+               <h6>Duration:1 Year</h6>
+               <p><a href="" class="btn btn-border">Read more</a></p>
+             </div>
+            </div>
+            <div class="row">
+             <div class="col-sm-6 text-center course-border">
+               <img src="images/mentor/course/course-removebg-preview.png" class="d-block mx-auto course-height" alt="">
+               <h4>M.A</h4>
+               <h6>Duration:1 Year</h6>
+               <p><a href="" class="btn btn-border">Read more</a></p>
+             </div>
+             <div class="col-sm-6 text-center course-border">
+               <img src="images/mentor/course/course-removebg-preview.png" class="d-block mx-auto course-height" alt="">
+               <h4>M.COM</h4>
+               <h6>Duration:1 Year</h6>
+               <p><a href="" class="btn btn-border">Read more</a></p>
+             </div>
+            </div>
+          
+          <!--courses details end-->
+        </div>
+      </div>
+      <!--information and course start end-->
+
+
+
+
+
+
+
+
+      
+    <!--Our recruiters start-->
+    <div class="row mt-3 mb-2 footer-color">
+      <div class="col-sm-12 text-center"> <h4>OUR RECRUITERS</h4></div>
+    </div>
+    <div class="row slider-basicinfo">
+      <div class="col-sm-6 text-center course-border company">
+        <img src="images/mentor/course/appple.png" class="d-block mx-auto course-height company-logo" alt="">
+        <h4>Apple</h4>
+      </div>
+
+      <div class="col-sm-6 text-center course-border company">
+        <img src="images/mentor/course/accenture-logo.jpg" class="d-block mx-auto course-height company-logo" alt="">
+        <h4>Accenture</h4>
+      </div>
+
+      <div class="col-sm-6 text-center course-border company">
+        <img src="images/mentor/course/amazon.png" class="d-block mx-auto course-height company-logo" alt="">
+        <h4>Amazon</h4>
+      </div>
+
+      <div class="col-sm-6 text-center course-border company">
+        <img src="images/mentor/course/hcl.png" class="d-block mx-auto course-height company-logo" alt="">
+        <h4>HCL</h4>
+      </div>
+
+      <div class="col-sm-6 text-center course-border company">
+        <img src="images/mentor/course/infosys.jpg" class="d-block mx-auto course-height company-logo" alt="">
+        <h4>Ifosys</h4>
+      </div>
+
+      <div class="col-sm-6 text-center course-border company">
+        <img src="images/mentor/course/honda-logo-1700x1150.png" class="d-block mx-auto course-height company-logo" alt="">
+        <h4>Honda</h4>
+      </div>
+
+      <div class="col-sm-6 text-center course-border company">
+        <img src="images/mentor/course/Wipro-logo.jpg" class="d-block mx-auto course-height company-logo" alt="">
+        <h4>Wipro</h4>
+      </div>
+
+      <div class="col-sm-6 text-center course-border company">
+        <img src="images/mentor/course/Wipro-logo.jpg" class="d-block mx-auto course-height company-logo" alt="">
+        <h4>Wipro</h4>
+      </div>
+
+      <div class="col-sm-6 text-center course-border company">
+        <img src="images/mentor/course/Wipro-logo.jpg" class="d-block mx-auto course-height company-logo" alt="">
+        <h4>Wipro</h4>
+      </div>
+
+      <div class="col-sm-6 text-center course-border company">
+        <img src="images/mentor/course/Wipro-logo.jpg" class="d-block mx-auto course-height company-logo" alt="">
+        <h4>Wipro</h4>
+      </div>
+    </div>
+
+  <!--Our recruiters end-->
+  

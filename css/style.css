@@ -1,0 +1,302 @@
+.topbar,.menubar
+{
+    background-color: #002147;
+}
+.topbar a,.see-all-courses
+{
+    text-decoration: none;
+}
+.font-awesome-icon
+{
+    color: #e7ba48;
+}
+.search-icon
+{
+  list-style-type: none;
+  margin-top:35px;
+  
+
+}
+.search-icon li
+{
+    display: inline;
+    
+    margin-left: 25px;
+}
+.search-icon li a
+{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+    border:1px solid #e7ba48;
+    border-radius: 50%;
+    color: #97322a;
+    
+}
+.search-icon li a:hover
+{
+    background-color: #002147;
+}
+.menubar-icon
+{
+    color:#97322a;
+}
+.menubar-icon-size
+{
+    font-size:16px;
+}
+.menubar ul a:hover
+{
+    background-color: #97322a;
+    color:#fff;
+}
+.h 
+{
+    height: 450px;
+}
+.slider-basicinfo
+{
+    background-color: #002147;
+}
+.readmore-width
+{
+    height:25px;
+    width:100%;
+    padding-top: 0px;
+    background-color:#97322a;
+}
+.justify-content
+{
+text-align: justify;
+}
+.card-images-height
+{
+    height:300px;
+}
+.know-more
+{
+    border: 1px dotted #97322a;
+}
+.know-more:hover
+{
+    background-color: #002147;
+    color:white;
+}
+.card-body-size
+{
+    height: 100px;
+}
+.below-heads-images
+{
+    background-color: #97322a;
+    color:#fff;
+    border-radius:5px;
+}
+.courses-border
+{
+    border-radius:5px;
+    margin-left: 25px;
+
+}
+.course-height
+{
+    height:100px;
+    width: 100px;
+}
+.course-border
+{
+    /*border:2px solid;
+    height:217px;
+    margin-top: 20px;
+    margin-left:25px;
+    width:280px;*/
+    background-color:#002147;
+    color:#fff;
+}
+.course-border:hover
+{
+    background-color:#ffff;
+    color:#97322a;
+}
+.notice-border
+{
+    border: 1px solid;
+    margin:0 auto;
+    
+    
+}
+.notice-information
+{
+    border:2px solid;
+    height: 457px;
+    margin-top: 24px;
+}
+.courses-background
+
+{
+    background-color:rgb(84, 50, 50);
+    
+}
+
+.btn-border
+{
+    border: 1px dotted  #97322a;
+    color:#97322a;
+    
+}
+.btn-border:hover
+{
+    background-color: #002147;
+    color: white;
+}
+.see-all-courses
+{
+
+    background-color: #97322a;
+    color: white;
+}
+.footer-color
+{
+    background-color: #97322a;
+    color: #fff;
+}
+.footer-icon li a 
+{
+    color:white;
+    text-decoration: none;
+
+}
+.footer-social-icon li
+{
+    margin-top: 20px;
+    display: inline;
+}
+.footer-social-icon li a
+{
+    text-decoration: none;
+    padding:10px;
+    font-size: 20px;
+    border:1px solid #e7ba48;
+    border-radius: 50%;
+    color: #fbf5f5;
+    background-color: #002147;
+    
+}
+.footer-social-icon li a:hover
+{
+    background-color: #fff;
+    color: #97322a;
+}
+.font-awesome-footer-icon
+{
+    color:#002147;
+}
+.company
+{
+    border-radius:50%;
+    height:200px;
+    width:200px;
+    margin: 0 auto;
+}
+.company-logo
+{
+    border-radius: 50%;
+}
+.company:hover
+{
+    background-color: #97322a;
+    color: #fff;
+}
+.current-slider-height
+{
+    height:400px;
+}
+.testimonial
+{  
+
+   width: 102%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:linear-gradient(90deg,rgba(131,58,180,1) 0%,rgba(253,29,29,1) 43%,rgba(252,176,69,1) 99%);
+}
+.helloo
+{
+    width: 720px;
+    height: 300px;
+    background-color: #fff;
+    text-align: center;
+}
+.imgbox
+{
+    margin-top: 50px;
+}
+.helloo .imgbox
+{
+    height: 100px;
+    width: 100px;
+   margin: 0 auto;
+    object-fit: contain;
+    margin-top: 35px;
+    border: 2px solid;
+    border-radius:50%;
+
+}
+.helloo .imgbox img
+{
+    width: 100%;
+    height: 100%;
+    border-radius:50%;
+   
+}
+.carousel-caption
+{
+    position: relative;
+    right: 0% !important;
+    bottom: 0px!important;
+    left: 0%!important;
+    color: #97322a
+}
+.breadcrum-outer
+{
+    height: 250px;
+    background-image: url(../images/slider/slider1.jpg);
+    background-size: cover;
+}
+.breadcrum-inner
+{
+    background-color:rgba(0,0,0,0.5);
+}
+.my-div
+{
+    display:flex;
+    justify-content: space-between;
+    padding-left:20px;
+    padding-right:50px;
+    height:100%;
+    align-items:center;
+}
+.books-bg
+{
+    background-image: url("../images/booksbg.jpg");
+
+}
+.fee-stucture ul
+{
+   list-style-type:none;;
+}
+.content-left
+{
+ background-image:url("../images/filling_form.png");
+ 
+}
+.content-inner-left
+{
+background-color: rgb(0 ,0 ,0, 0.5);
+}
+.developer
+{
+  text-decoration: none;
+}
+
